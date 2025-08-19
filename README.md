@@ -12,12 +12,7 @@ It allows students to register, apply for courses, and helps the admin process a
 - **Java** (Core Java + JDBC)
 - **MySQL** (Database)
 - **JDBC Driver** (Connector for Java & MySQL)
-
----
-
-## 📂 Project Structure
-
-CollegeAdmissionSystem/ │── CollegeAdmissionSystem.java  │── README.md                     # Project documentation └── Database.sql           
+         
 ---
 
 ## 📊 Database Schema
