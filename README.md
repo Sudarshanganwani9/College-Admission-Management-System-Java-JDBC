@@ -17,8 +17,7 @@ It allows students to register, apply for courses, and helps the admin process a
 
 ## 📂 Project Structure
 
-CollegeAdmissionSystem/ │── CollegeAdmissionSystem.java   # Main program file │── admission_list.csv            # Generated admission list output │── README.md                     # Project documentation └── Database.sql                  # MySQL schema & sample data
-
+CollegeAdmissionSystem/ │── CollegeAdmissionSystem.java  │── README.md                     # Project documentation └── Database.sql           
 ---
 
 ## 📊 Database Schema
